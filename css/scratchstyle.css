@@ -1,0 +1,68 @@
+#byu img {
+    height: 140px;
+    width: 300px;
+    vertical-align: middle;
+}
+
+#byu {
+    color: #030303;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    padding-left: 30px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 380px;
+    background-color: rgb(248, 177, 45);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.content {
+    margin-left: 380px;
+}
+
+.card {
+    margin-left: 25px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+  color: black;
+  font-size: large;  
+}
+
+ol {
+    color: black;
+    font-size: large;  
+  }
+
+.review {
+    font-family: serif;
+    font-style: oblique;
+    margin-left: 40px;
+  }
+
+.text {
+    text-align: center;
+    font-size: large;
+}
